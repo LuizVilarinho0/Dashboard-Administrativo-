@@ -1,0 +1,1 @@
+Dashboard simples desenvolvido em HTML5 e CSS3, com foco totalmente visual. O objetivo do projeto é demonstrar domínio na construção de layouts modernos, organização de elementos, responsividade e estilização utilizando apenas tecnologias de marcação e CSS, pouco uso de JavaScript.
